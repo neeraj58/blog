@@ -7,6 +7,7 @@
 
 # Site settings
 title: Neeraj Sharma
+baseurl: '/blog'
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog about the latest in tech that i stumble upon.
 url: "http://neeraj.me" # the base hostname & protocol for your site
