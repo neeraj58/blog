@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2016-07-30 22:20:12 +0530
+categories: tech
+author: Neeraj Sharma
+permalink: FirstPost
+---
+
+This is my first blog on the various new technologies that i keep stumbling upon in my daily routine. Would love to share these with everyone.
+
+So probably it would make sense if i really start off by saying how this blog came about. I'l briefly talk about about how i created this blog.
+
+Iv been trying to blog for some time now, trying to share some insights that i get everyday. However i really couldnt get down to how to make this happen. Then i stumbled upon this.

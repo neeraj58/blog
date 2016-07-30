@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neeraj Sharma</title>
+    <description>This is a blog about the latest in tech that i stumble upon.
+</description>
+    <link>http://neeraj.me/</link>
+    <atom:link href="http://neeraj.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jul 2016 04:15:23 +0530</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2016 04:15:23 +0530</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;p&gt;This is my first blog on the various new technologies that i keep stumbling upon in my daily routine. Would love to share these with everyone.&lt;/p&gt;
+
+&lt;p&gt;So probably it would make sense if i really start off by saying how this blog came about. I’l briefly talk about about how i created this blog.&lt;/p&gt;
+
+&lt;p&gt;Iv been trying to blog for some time now, trying to share some insights that i get everyday. However i really couldnt get down to how to make this happen. Then i stumbled upon this.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jul 2016 22:20:12 +0530</pubDate>
+        <link>http://neeraj.me/FirstPost</link>
+        <guid isPermaLink="true">http://neeraj.me/FirstPost</guid>
+        
+        
+        <category>tech</category>
+        
+      </item>
+    
+  </channel>
+</rss>
