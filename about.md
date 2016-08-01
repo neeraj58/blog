@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Neeraj is a develper and a tech enthusiast.
+Neeraj is a developer and a tech enthusiast.
