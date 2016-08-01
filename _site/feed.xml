@@ -4,10 +4,10 @@
     <title>Neeraj Sharma</title>
     <description>This is a blog about the latest in tech that i stumble upon.
 </description>
-    <link>http://neeraj.me/blog/</link>
-    <atom:link href="http://neeraj.me/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jul 2016 04:35:44 +0530</pubDate>
-    <lastBuildDate>Sun, 31 Jul 2016 04:35:44 +0530</lastBuildDate>
+    <link>http://neeraj.me/</link>
+    <atom:link href="http://neeraj.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Aug 2016 09:20:56 +0530</pubDate>
+    <lastBuildDate>Mon, 01 Aug 2016 09:20:56 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
 &lt;p&gt;Iv been trying to blog for some time now, trying to share some insights that i get everyday. However i really couldnt get down to how to make this happen. Then i stumbled upon this.&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Jul 2016 22:20:12 +0530</pubDate>
-        <link>http://neeraj.me/blog/FirstPost</link>
-        <guid isPermaLink="true">http://neeraj.me/blog/FirstPost</guid>
+        <link>http://neeraj.me/FirstPost</link>
+        <guid isPermaLink="true">http://neeraj.me/FirstPost</guid>
         
         
         <category>tech</category>
